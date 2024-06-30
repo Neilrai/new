@@ -5,3 +5,4 @@ def a(x):
     print(y)
 for i in range (1,5+1):
     a(i)
+def a(x)
